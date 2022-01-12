@@ -61,9 +61,13 @@ print(values)
 ```
 
 ## Output:
+```
 SAMPLE INPUT
+```
 ![INPUT](./iput.png)
+```
 OUTPUT
+```
 ![OUTPUT](./OP.png)
 
 
